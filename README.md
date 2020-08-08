@@ -1,15 +1,5 @@
-# _Neo Cactus_ for Jekyll
+Hello. This is a customised version of the [Marfa theme](https://github.com/microdotblog/theme-marfa) that I use for my [personal website](https://cleardemon.com), hosted on [micro.blog](https://micro.blog).
 
-#### Demo: [https://mmarfil.com/](https://mmarfil.com/)
+There is no content here, only a theme. You should probably look at the actual website.
 
-## Screenshot
-
-![screenshot](screenshot/home.png)
-
-This Jekyll theme started as a port of [Cactus](https://github.com/eudicots/Cactus) to my own needs, but I ended up performing a lot more modifications than expected. Some people reached me out and asked if I could share it, so here we are.
-
-#### Disclaimer: I'm only a designer, so please don't expect the code to be pretty.
-
-## Usage
-To start your project, [fork this respository](https://github.com/mmarfil/neocactus/fork), put in your content, and go!
-
+This repo has to be public so micro.blog can update the hosted theme, if and when it changes.
